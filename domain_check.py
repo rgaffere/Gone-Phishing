@@ -36,7 +36,7 @@ def is_suspicious_email(email):
 
     # Check domain reputation with an external service
     response = requests.post(
-        f"https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyD5jYKEP7wkHkfjuGzna6J2Cmdjf8wgGu4",
+        f"https://safebrowsing.googleapis.com/v4/threatMatches:find?key=haha",  # Removed the key for public repo
         json={
             "client": {
                 "clientId": "phishing-detector",

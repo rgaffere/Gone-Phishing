@@ -13,7 +13,7 @@ This project analyzes email content to determine whether it is a phishing attemp
 
 ## 👨‍💻 Built By
 
-- Ryan Gaffere  
+- Ryan G.
 - Bawi S.  
 - Harsh K.
 
